@@ -31,7 +31,7 @@ open up another terminal on the same directory location.
 
 Now we have to set authentication token for ngrok.
 
-go to [here](https://dashboard.ngrok.com/signup) register an acoount. and you get your auth token....
+go to [here](https://dashboard.ngrok.com/signup) register an acoount. go to ```Your Authtoken``` and you get your auth token....
 
 To set auth token.
 
