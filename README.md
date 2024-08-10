@@ -56,14 +56,23 @@ Visit the web interface address.
 
 <img width="915" alt="Screenshot 2024-08-10 at 6 34 39 PM" src="https://github.com/user-attachments/assets/65256c4e-17b8-4ec4-8f74-526d3e748fb3">
 
+---
+
 click on the link..then visit site.......
+
+---
 
 <img width="915" alt="Screenshot 2024-08-10 at 6 34 39 PM" src="https://github.com/user-attachments/assets/48d63c2b-c0e4-4d20-83b9-f4c001002a58">
 
+---
 
 <img width="913" alt="Screenshot 2024-08-10 at 6 34 49 PM" src="https://github.com/user-attachments/assets/29f4d412-65b8-40b4-8104-9637934d55b9">
 
+---
+
 Now you can visit the Forwarding address to access the web page from anywhere in world.............
+
+---
 
 <img width="1440" alt="Screenshot 2024-08-10 at 6 35 22 PM" src="https://github.com/user-attachments/assets/ce613a01-4521-4a7f-b222-442f24e0fc08">
 
